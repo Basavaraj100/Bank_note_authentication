@@ -7,7 +7,5 @@ Data were extracted from images that were taken from genuine and forged banknote
 - Random forest
 
 ## Deployment
-- Model deployed in GCP using streamlit
-
-app link: 
+- MOdel is deployed in local machine using streamlit
 
